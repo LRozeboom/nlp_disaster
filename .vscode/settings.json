@@ -1,4 +1,4 @@
 {
     "azureML.defaultWorkspaceId": "/subscriptions/88a2a767-50a6-4261-a98e-67816b3d1cf6/resourceGroups/mlearning/providers/Microsoft.MachineLearningServices/workspaces/Luuk_machinelearn",
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "local"
 }
